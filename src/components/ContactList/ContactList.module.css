@@ -1,0 +1,14 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 600px;
+  padding: 15px;
+  margin-left: 20px;
+  
+};
+
+.massage {
+margin: 4px;
+font-size: 20px;
+}
